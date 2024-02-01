@@ -1,0 +1,25 @@
+module Counter( 
+input wire clk,
+input wire reset,
+input wire enable,
+input wire inputBit,
+output wire [3:0] score
+);
+  
+reg [3:0] counter;
+
+always @(posedge clk) begin
+  if(reset)
+   
+      counter <= 0;
+     else if (enable) begin
+      if (counter == 4'b1111) 
+        counter <= 0;
+        else
+        
+          counter <= (inputBit == 1'b0) ? counter + 1 : counter;
+      end
+    end
+    assign score = counter;
+    
+endmodule

@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0\FinalProjectVerilog
+vCounter
+!i10b 1
+Z1 !s100 I9JooGliJ4:faggFT2hc63
+Z2 IACZ^]I1IE8k<=gdY]^S?C1
+Z3 VM`W^UT`h>eaY@3bEl9=Dz2
+Z4 dC:\Users\Microsoft\Desktop\FinalProjectVerilog
+Z5 w1706761746
+Z6 8C:/Users/Microsoft/Desktop/FinalProjectVerilog/WheelOfLuck.v
+Z7 FC:/Users/Microsoft/Desktop/FinalProjectVerilog/WheelOfLuck.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1706761746.444000
+Z10 !s107 C:/Users/Microsoft/Desktop/FinalProjectVerilog/WheelOfLuck.v|
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/Microsoft/Desktop/FinalProjectVerilog/WheelOfLuck.v|
+!s101 -O0
+Z12 o-work work -O0
+Z13 n@counter
+vCounterTB
+!i10b 1
+!s100 <aEiZ1mfkoc;IHJgPha7U3
+Iho0e_3QabLem;_VzRzZP02
+V?3fDJcZB0g?2ohOk@:oG@3
+R4
+R5
+R6
+R7
+L0 27
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+n@counter@t@b
+vCounterTestbench
+Z14 !s100 YH>DSdNY^^P>VS2UcgYI40
+Z15 IXaH:]jkmgYKNeHa2fiJek3
+Z16 V2NmaOm_jLac@3Ij?L_IzD3
+R4
+Z17 w1706684600
+R6
+R7
+L0 33
+R8
+r1
+31
+Z18 !s108 1706684725.758000
+Z19 !s107 C:/Users/Microsoft/Desktop/FinalProjectVerilog/WheelOfLuck.v|
+R11
+R12
+Z20 n@counter@testbench
+!i10b 1
+!s85 0
+!s101 -O0
